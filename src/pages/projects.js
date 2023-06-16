@@ -13,7 +13,7 @@ export default function Projects(){
             <p>
                 In this project I used the MERN stack. Mongo DB to store data, Express Js for the backend, React for the front end, Node Js also for the backend code
                 This web app requires you to sign in/register and after that you are greeted with the home page where you can see all other user's post
-                You can also make your own post at your profile page (i.e. username = john then webpage/john)
+                You can also make your own post at your profile page (i.e. username = john then webpage/john) You can visit it at <a href="https://aware-plum-sheep.cyclic.app/login" target="_blank">My Website</a>
             </p>
             <Image src="/p1.jpg" width={1000} height={400} alt="Pic" />
             <Image src="/p2.jpg" width={1000} height={400} alt="Pic" />
